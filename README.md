@@ -14,7 +14,7 @@ A data analysis project that explores pizza sales trends using SQL. This project
 - Cumulative revenue over time
 - Top 3 pizzas per category based on revenue
 
-## 🛠 Tech Stack
+## Tech Stack
 - MYSQL
 
 ## Author
